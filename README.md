@@ -1,5 +1,5 @@
 ![Nitish's-cover](./cover-image.png)
-![](./giphy.gif)
+![](./abc.gif)
 # Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90px">
 ## 👦 About Me
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Metasploit Base Code**
 
-- 📫 Contact me **[here](krnitish1207@gmail.com)**
+- 📫 Contact me **(krnitish1207@gmail.com)**
 
 ## ✍ My Work
 
