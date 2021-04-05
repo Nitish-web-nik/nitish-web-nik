@@ -25,6 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-web-nik&layout=compact&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/Nitish-web-nik)
 
+## 🔧 Technologies & Tools
 ![Skill](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Skill](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
