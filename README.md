@@ -1,7 +1,6 @@
 ![Nitish's-cover](./cover-image.png)
 ![](./giphy.gif)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90px">
 ## 👦 About Me
 
 - 🔭 I’m currently working on [CSS-Art-Gallery](https://github.com/Nitish-web-nik/css-art-gallery)
@@ -47,3 +46,7 @@
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-0a30a51a9/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish-web-nik)
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Nitish-web-nik">  
+</p>
