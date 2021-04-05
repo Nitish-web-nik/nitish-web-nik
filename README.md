@@ -1,6 +1,6 @@
 ![Nitish's-cover](./cover-image.png)
 
-## 🧔 About Me
+## 👦 About Me
 
 - 🔭 I’m currently working on [CSS-Art-Gallery](https://github.com/Nitish-web-nik/css-art-gallery)
 
