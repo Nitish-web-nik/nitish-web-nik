@@ -1,5 +1,7 @@
 ![Nitish's-cover](./cover-image.png)
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ## 👦 About Me
 
 - 🔭 I’m currently working on [CSS-Art-Gallery](https://github.com/Nitish-web-nik/css-art-gallery)
