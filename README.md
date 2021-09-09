@@ -1,7 +1,7 @@
 ![Nitish's-cover](./cover-image.png)
 
 ![](./giphy.gif)
-# Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="300px">
+# Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="100px">
 ![](./ban.gif)
 ## 👦 About Me
 
