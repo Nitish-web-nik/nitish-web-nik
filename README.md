@@ -2,7 +2,7 @@
 
 ![](./giphy.gif)
 # Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90px">
-![](./banner.gif)
+![](./ban.gif)
 ## 👦 About Me
 
 - 🔭 I’m currently working on [CSS-Art-Gallery](https://github.com/Nitish-web-nik/css-art-gallery)
