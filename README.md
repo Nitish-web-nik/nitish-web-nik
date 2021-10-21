@@ -4,9 +4,9 @@
 ![](./ban.gif)
 ## 👦 About Me
 
-- 🔭 I’m currently working on [CSS-Art-Gallery](https://github.com/Nitish-web-nik/css-art-gallery)
+- 🔭 I’m currently working as a Trainee at IEEE and ML intern at Digitran Soln.
 
-- 🌱 I’m currently learning **React,Deep Dive to CSS and Ethical Hacking**
+- 🌱 I’m currently learning **ML, AI and Software Engineering*
 
 - 👯 I’m looking to collaborate on **Metasploit Base Code**
 
