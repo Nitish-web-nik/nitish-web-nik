@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Trainee at IEEE and ML intern at Digitran Soln.
 
-- 🌱 I’m currently learning **ML, AI and Software Engineering*
+- 🌱 I’m currently learning **ML, AI and Software Engineering**
 
 - 👯 I’m looking to collaborate on **Metasploit Base Code**
 
