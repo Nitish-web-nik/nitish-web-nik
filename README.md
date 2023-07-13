@@ -1,13 +1,14 @@
-# Hello, folks! Myself Nitish  <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="100px">
+![Nitish's-cover](./aboutme.gif)
 
-
+# Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="100px">
+![](./ban.gif)
 ## 👦 About Me
 
-- 🔭 I’m currently pursuing my **M.Tech at IIT Kanpur in Computer Science and Engineering**
+- 🔭 I’m currently working as a Trainee at IEEE and ML intern at Digitran Soln.
 
 - 🌱 I’m currently learning **ML, AI and Software Engineering**
 
-- 👯 I’m looking for a person to **Pair Coding**
+- 👯 I’m looking to collaborate on **Metasploit Base Code**
 
 - 📫 Contact me **(krnitish1207@gmail.com)**
 
