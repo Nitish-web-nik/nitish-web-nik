@@ -1,7 +1,7 @@
 ![Nitish's-cover](./nitish_2.gif)
 
-# Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="100px">
-![](./ban.gif)
+# <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="100px">
+
 ## 👦 About Me
 
 - 🔭 I’m currently working as a Trainee at IEEE and ML intern at Digitran Soln.
