@@ -8,7 +8,7 @@
 
 - 🌱 Doing my thesis under the Prof. Priyanka Bagade in **IoT and Computer Vision.**
 
-- 👯 I’m looking to collaborate on projects related to **ML and NLP.**
+- 👯 I’m looking to collaborate on projects related to **ML and NLP** also.
 
 - 📫 Contact me at **nitishk23@iitk.ac.in**
 
@@ -40,9 +40,9 @@
 ![Skill](https://img.icons8.com/?size=100&id=n5SduwU2J7N1&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=118557&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000)
-![Skill](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Skill](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Skill](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Skill](https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000)
+![Skill](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
+![Skill](https://img.icons8.com/?size=100&id=wfO2TE4bsVfx&format=png&color=000000)
 ## 🤝 Connect with Me
 
 [![Skill](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/nitish-kumar-0a30a51a9/)
