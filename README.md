@@ -43,12 +43,9 @@
 ![Skill](https://img.icons8.com/?size=100&id=n5SduwU2J7N1&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=118557&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000)
-<<<<<<< HEAD
 ![Skill](https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=wfO2TE4bsVfx&format=png&color=000000)
-=======
->>>>>>> ecb4945d174af4020eaa8e476dcb198cc5663050
 ## 🤝 Connect with Me
 
 [![Skill](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/nitish-kumar-0a30a51a9/)
