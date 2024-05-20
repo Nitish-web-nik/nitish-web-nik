@@ -1,6 +1,6 @@
 ![Nitish's-cover](./nitish_3.gif)
 
-# <img src="./hello.gif" width="110px">
+
 
 ## 👨‍💻 About Me
 
@@ -15,6 +15,9 @@
 ## ✍ My Work
 
 [![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish-web-nik&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nitish-web-nik&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 **Here are some of my projects on Github that I am proud of:**
 
