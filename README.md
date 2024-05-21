@@ -4,17 +4,25 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I am currently pursuing my Master's degree in CSE at IIT Kanpur.
+- 🔭 I am pursuing my Master's degree in **Computer Science and Engineering** at the esteemed **Indian Institute of Technology Kanpur.**
 
-- 🌱 Doing my thesis under the Prof. Priyanka Bagade in **IoT and Computer Vision.**
+- 🌱 I am engaged in research for my thesis under the guidance of **Professor Priyanka Bagade**, specializing in the fields of **Internet of Things (IoT) and Computer Vision.**
 
-- 👯 I’m looking to collaborate on projects related to **ML and NLP** also.
+- 👯  I'm the social butterfly of academia, always buzzing around for collabs on projects that tickle my **ML and NLP** fancy. Let's link up and make some magic happen!
 
 - 📫 Contact me at **nitishk23@iitk.ac.in**
+<br>
 
+![Nitish's-cover](./111.gif)
 ## ✍ My Work
 
 [![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish-web-nik&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik)
+
+
+## 🔥 Github Contribution Streak 
+<br>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish-web-nik&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<hr><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nitish-web-nik&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
@@ -28,7 +36,17 @@
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-web-nik&layout=compact&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/Nitish-web-nik)
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nitish-web-nik&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+
+<hr>
+<br>
 
 ## 🔧 Languages, Tools and Technologies
 ![Skill](https://img.icons8.com/?size=100&id=nBKHe4Tn9k59&format=png&color=000000)
