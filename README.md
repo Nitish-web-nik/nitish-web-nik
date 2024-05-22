@@ -17,7 +17,7 @@
 ## ✍ My Work
 
 [![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish-web-nik&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish-web-nik&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
 ## 🔥 Github Contribution Streak 
 <br>
