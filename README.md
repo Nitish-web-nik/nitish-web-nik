@@ -75,5 +75,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nitishk23@iitk.ac.in">
 ![Skill](https://img.icons8.com/?size=100&id=GNO9f2CARaea&format=png&color=000000)
 </a>
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/krnitish12m"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nitish-web-nik" /></a></p>
 
 </p>
