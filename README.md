@@ -6,7 +6,7 @@
 
 - 🔭 I am pursuing my Master's degree in **Computer Science and Engineering** at the esteemed **Indian Institute of Technology Kanpur.**
 
-- 🌱 I am engaged in research for my thesis under the guidance of **Professor Priyanka Bagade**, specializing in the fields of **Machine Learning, NLP, Internet of Things (IoT) and Computer Vision.**
+- 🌱 I am engaged in research for my thesis under the guidance of **Professor Priyanka Bagade**, specializing in the fields of **Internet of Things (IoT), Computer Vision, Machine Learning and Natural Language Processing.**
 
 - 👯  I'm the social butterfly of academia, always buzzing around for collabs on projects that tickle my **ML and NLP** fancy. Let's link up and make some magic happen!
 
