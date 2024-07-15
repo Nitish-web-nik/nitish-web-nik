@@ -27,12 +27,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nitish-web-nik&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
-**Here are some of my projects on Github that I am proud of:**
-
+<!-- Here are some of my projects on Github that I am proud of:** 
 [![Workshop_Problems_On_OOP](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-web-nik&repo=Workshop_Problems_On_OOP&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/Workshop_Problems_On_OOP)
 [![ToDoListCLIUsingPython](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-web-nik&repo=ToDoListCLIUsingPython&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/ToDoListCLIUsingPython)
 [![TServiceNow-Api](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-web-nik&repo=ServiceNow-Api&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/https://github.com/Nitish-web-nik/ServiceNow-Api)
 [![Home-page-of-Team-freesbie](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-web-nik&repo=Home-page-of-Team-freesbie&show_icons=true&theme=dark)](https://github.com/Nitish-web-nik/Home-page-of-Team-freesbie)
+-->
+
+
 
 ## 📚 My Skills
 
