@@ -23,10 +23,11 @@
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish-web-nik&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 <hr><br>
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nitish-web-nik&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
+-->
+<!--
 ## 📚 My Skills
 
 ## Most Used Languages 📚
@@ -39,7 +40,8 @@
 </p>
 
 <hr>
-<br>
+<be>
+-->
 
 ## 🔧 Languages, Tools, and Technologies
 
