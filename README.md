@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently diving deep into the world of **Computer Science and Engineering** as a Master's student at the one and only **Indian Institute of Technology Kanpur** (IITK) 🏫. 
+- 🔭 Currently diving deep into the world of **Computer Science and Engineering** as a Master's student at the prestigious institute **Indian Institute of Technology Kanpur** (IITK) 🏫. 
 
 - 🌱 Channeling my inner tech wizard 🧙‍♂️ under the mentorship of **Professor Priyanka Bagade** in the realms of **IoT, Computer Vision, Machine Learning,** and **Natural Language Processing**. Catch me playing with sensors and models in the [IoT Vision Research Lab](https://pbagade0.wixsite.com/priyanka) 🔍.
 
