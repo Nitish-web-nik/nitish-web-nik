@@ -8,7 +8,7 @@
 
 - 👯 You’ll often find me as the social butterfly 🦋 of academia, flitting from one exciting project to another—especially if it involves **ML or NLP**. Got a cool idea? Let’s geek out together and turn that spark into a flame! 🔥
 
-- 📫 My digital mailbox is always open! Drop me a line at **nitishk23@iitk.ac.in**. But fair warning, my inbox has more traffic than Stack Overflow on a bad code day.
+- 📫 My digital mailbox is always open! Drop me a line at **23nitishk@gmail.com**. But fair warning, my inbox has more traffic than Stack Overflow on a bad code day.
 
 <br>
 
@@ -62,17 +62,7 @@
 ![Skill](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
 ![Skill](https://img.icons8.com/?size=100&id=wfO2TE4bsVfx&format=png&color=000000)
 
-## 🤝 Connect with Me
 
-[![Skill](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/nitish-kumar-0a30a51a9/)
-[![Skill](https://img.icons8.com/?size=100&id=64142&format=png&color=000000)](https://www.instagram.com/nik__nitish/)
-[![Skill](https://img.icons8.com/?size=100&id=115371&format=png&color=000000)](https://www.youtube.com/channel/UC7CMQ6YnkxjBIaZaSr-9ueQ)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=krnitish1207@gmail.com">
-![Skill](https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000)
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nitishk23@iitk.ac.in">
-![Skill](https://img.icons8.com/?size=100&id=GNO9f2CARaea&format=png&color=000000)
-</a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/krnitish12m"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nitish-web-nik" /></a></p>
